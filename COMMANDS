@@ -1,0 +1,100 @@
+General Commands
+pwd - Print Working Directory
+ls - List files and directories
+cd - Change Directory
+mkdir - Make Directory
+rm - Remove files or directories
+cp - Copy files or directories
+mv - Move or rename files or directories
+touch - Create an empty file or update the timestamp of an existing file
+cat - Display the contents of a file
+nano - Simple text editor
+vim - Powerful text editor
+less - View file contents one page at a time
+uname -a - Display detailed information about the system
+top - Display running processes and system usage
+df -h - Show disk space usage
+du -sh - Show directory space usage
+free -h - Display memory usage
+
+Networking and Security Commands
+ping - Check connectivity to a host
+ifconfig - Display network configuration (deprecated, use 'ip')
+ip addr show - Show/manage network interfaces
+netstat -tuln - Network statistics
+nmap - Network scanner
+wireshark - Network protocol analyzer
+tcpdump - Network packet analyzer
+ettercap - Network security tool for man-in-the-middle attacks
+arpspoof - ARP spoofing tool
+airmon-ng - Start monitor mode on wireless interfaces
+airodump-ng - Capture raw 802.11 frames
+aireplay-ng - Packet injection tool
+aircrack-ng - Crack WEP and WPA-PSK keys
+hydra - Password cracking tool
+john - Password cracker
+metasploit - Penetration testing framework
+msfconsole - Console for Metasploit
+exploit - Execute exploits in Metasploit
+nikto - Web server scanner
+sqlmap - Automated SQL injection tool
+burpsuite - Web vulnerability scanner
+zap - OWASP ZAP, web vulnerability scanner
+msfvenom - Payload generator for Metasploit
+setoolkit - Social Engineering Toolkit
+wpscan - WordPress vulnerability scanner
+
+System Information and Management
+ps aux - Display running processes
+kill - Terminate a process by ID
+killall - Terminate all processes by name
+service - Manage system services
+systemctl - Control the systemd system and service manager
+htop - Interactive process viewer
+crontab - Schedule commands to run at specific times
+uptime - Display how long the system has been running
+whoami - Display the current logged-in user
+hostname - Display or set the system's hostname
+dmesg - Print kernel ring buffer messages
+lshw - List hardware configurations
+lsblk - List information about block devices
+blkid - Display block device attributes
+
+File Permissions and Ownership
+chmod - Change file permissions
+chown - Change file owner and group
+chgrp - Change group ownership
+umask - Set default file permissions
+
+Disk and File Operations
+fdisk - Partition table manipulator
+mkfs - Create a filesystem
+mount - Mount a filesystem
+umount - Unmount a filesystem
+dd - Convert and copy a file
+tar - Archive files
+gzip - Compress files
+bzip2 - Compress files
+apt-get - Package handling utility
+apt - Advanced Package Tool interface
+dpkg - Debian package manager
+
+Scripting and Development
+python - Python interpreter
+perl - Perl interpreter
+ruby - Ruby interpreter
+gcc - GNU Compiler Collection
+make - Build and compile projects
+
+Miscellaneous Tools
+gpg - GnuPG encryption tool
+hashcat - Password cracking tool
+netcat - Network utility for reading/writing data
+socat - Network communication utility
+wget - Download files from the web
+curl - Transfer data from or to a server
+scp - Secure copy (remote file copy program)
+ssh - Secure shell for remote login
+ftp - File Transfer Protocol client
+telnet - User interface to the TELNET protocol
+
